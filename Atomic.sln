@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atomic", "Atomic\Atomic.csproj", "{8BCE77CD-7CD7-418A-999F-5064662C5411}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atomic.Tests", "Atomic.Tests\Atomic.Tests.csproj", "{C8E2661A-82D2-48A9-B453-96622F7A6FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BCE77CD-7CD7-418A-999F-5064662C5411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCE77CD-7CD7-418A-999F-5064662C5411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCE77CD-7CD7-418A-999F-5064662C5411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCE77CD-7CD7-418A-999F-5064662C5411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E2661A-82D2-48A9-B453-96622F7A6FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E2661A-82D2-48A9-B453-96622F7A6FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E2661A-82D2-48A9-B453-96622F7A6FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E2661A-82D2-48A9-B453-96622F7A6FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85ECE1C-7F3E-40BC-8710-964F875CCF7A}
+	EndGlobalSection
+EndGlobal
